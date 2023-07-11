@@ -1,0 +1,23 @@
+order_subscriber:  # Name of your Node
+  ros__parameters:
+    order_id: ""
+    order_type: ""
+    order_parts: ["","","",""]    
+    name: 'order_kit'
+
+# part1:
+#         - type: 0
+#           color: 0
+#         - quadrant: 1
+#       part2:
+#         - type: 0
+#           color: 0
+#         - quadrant: 2
+#       part3:
+#         - type: 0
+#           color: 0
+#         - quadrant: 3
+#       part4:
+#         - type: 0
+#           color: 0
+#         - quadrant: 4

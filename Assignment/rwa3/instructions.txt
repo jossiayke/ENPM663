@@ -1,0 +1,4 @@
+To Run package successfully:
+1. First, build the package 
+2. Then execute: ros2 launch rwa3 rwa3.launch.py
+3. Message should publish only once with parameters printed on screen
